@@ -37,6 +37,7 @@ public class Projet {
 	@JsonFormat(pattern = "yyyy-mm-dd")
 	private Date updatedAt;
 	
+	// Constructeur par defaut
 	public Projet() {
 	}
 	
